@@ -1,0 +1,20 @@
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\bin\Debug\sayısal_loto_uygulaması.exe.config
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\bin\Debug\sayısal_loto_uygulaması.exe
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\bin\Debug\sayısal_loto_uygulaması.pdb
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.csprojAssemblyReference.cache
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.Form1.resources
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.Properties.Resources.resources
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.exe
+C:\Users\busra\source\repos\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.pdb
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\bin\Debug\sayısal_loto_uygulaması.exe.config
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\bin\Debug\sayısal_loto_uygulaması.exe
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\bin\Debug\sayısal_loto_uygulaması.pdb
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.exe
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\sayısal_loto_uygulaması\sayısal_loto_uygulaması\obj\Debug\sayısal_loto_uygulaması.pdb
